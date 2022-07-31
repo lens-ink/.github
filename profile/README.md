@@ -1,2 +1,1 @@
-![](images/banner.png)
-Visit [lens.ink](https://lens.ink)
+![[Lens.ink](https://lens.ink)](../images/banner.png)
