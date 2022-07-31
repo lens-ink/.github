@@ -1,1 +1,1 @@
-![[Lens.ink](https://lens.ink)](../images/banner.png)
+![[Lens.ink](https://lens.ink)](images/banner.png)
